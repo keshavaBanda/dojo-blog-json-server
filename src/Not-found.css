@@ -1,0 +1,14 @@
+.page-not-found{
+    /* background-color: ; */
+    /* text-align: center; */
+    /* background-color: red; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Link{
+   text-align: center;
+   /* background-color: red; */
+   /* margin: 590px; */
+}

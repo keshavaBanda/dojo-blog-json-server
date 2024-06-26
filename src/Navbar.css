@@ -1,0 +1,36 @@
+.navbar{
+    background-image: linear-gradient(to right, salmon , #4287f5);
+    /* background: #4287f5; */
+    color: white;
+    text-align: left;
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 50px;
+}
+
+.link{
+    display: flex;
+    padding: 20px;
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+}
+
+.link-title{
+    text-decoration: none;
+    color: black;
+    
+}
+
+span:hover{
+    border-bottom: solid  2px;
+    
+}
+
+.align{
+   display: flex;
+   align-items: center;
+   /* align-items:  ; */
+   /* justify-content: end; */
+    /* background-color: red; */
+}

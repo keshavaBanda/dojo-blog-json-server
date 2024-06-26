@@ -1,0 +1,32 @@
+/* .blog-lists {
+    width: 60%;
+    background-color: rgb(190, 66, 52);
+    margin: 70px 20px 20px;
+    padding: 10px 10px 10px 40px;
+    border-radius: 10px;
+}
+
+.blog-preview {
+    text-align: left;
+    color: white;
+}
+
+h2 {
+    text-align: left;
+}
+
+.error {
+    background-color: red;
+    color: white;
+    margin-top: 12px;
+    padding: 8px;
+    font-weight: bold;
+    font-family: inherit;
+} */
+
+.loading-state {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* text-align: center; */
+}

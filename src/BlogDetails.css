@@ -1,0 +1,23 @@
+.mt-5 {
+    margin: 50px 150px;
+    text-align: justify;
+    line-height: 1.7;
+}
+
+.author {
+    text-align: right;
+}
+
+.tag {
+    display: flex;
+    justify-content: end;
+}
+
+.center{
+    text-align: center;
+    font-weight: bold;
+}
+
+span:hover{
+    border: none !important;
+}
